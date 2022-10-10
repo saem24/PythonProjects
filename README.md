@@ -1,4 +1,4 @@
-# PythonProjects
+# Python projects
 
 Here you will find a list of Python programs that cover my various requirements.
 
