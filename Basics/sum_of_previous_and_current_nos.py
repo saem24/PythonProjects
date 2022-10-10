@@ -1,3 +1,6 @@
+# Adds previous number with current number and outputs it.
+# Can modify to iterate through a list of numbers instead of default.
+
 sum_of_nos = 0
 previous_no = 0
 
