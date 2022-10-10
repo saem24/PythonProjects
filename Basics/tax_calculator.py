@@ -1,3 +1,5 @@
+# Basic tax calculator with easy to modify criterias.
+
 income = int(input("Please input your income in USD: "))
 
 rate_for_mid_bracket = 0.1
