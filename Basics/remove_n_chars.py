@@ -1,3 +1,5 @@
+# Remove 'n' no of characters from start or end of a string.
+
 og_word = input("Input any word: ")
 chars_to_remove = int(input("Enter number for characters to be removed: "))
 direction = input("Enter 'L' to remove from left and 'R' to remove from right: ").upper()
