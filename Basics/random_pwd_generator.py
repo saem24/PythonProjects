@@ -1,3 +1,5 @@
+# A random password generator I use daily as a script within Raycast.
+
 import string
 import random
 
