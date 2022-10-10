@@ -1,3 +1,5 @@
+# Find value from base and exponent
+
 def exponent(base, exp):
     val = 1
     for count in range(0, exp):
