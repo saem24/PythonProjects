@@ -1,9 +1,11 @@
+# Two ways to get multiplication table
+
 for num in range(1,11):
     for count in range(1,11):
         print(num * count, end=" ")         # end keyword to end with space
     print("\n")
 
-# multiplication table with user input
+# multiplication table with user input below
 
 val = int(input("Input number: "))
 
