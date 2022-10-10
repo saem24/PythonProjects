@@ -1,3 +1,5 @@
+# Get substring count in a string.
+
 og_string = input("Please input a string: ").lower()
 substring = input("Please input the substring you wish to find: ").lower()
 
