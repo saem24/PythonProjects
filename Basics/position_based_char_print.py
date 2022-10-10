@@ -1,3 +1,5 @@
+# Prints characters based on their even or odd position in a string.
+
 input_str = input("Please input the string: ")
 is_even = input("'True' for even and 'False' for odd: ").lower()
 val_type = ""
