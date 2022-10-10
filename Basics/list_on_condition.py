@@ -1,3 +1,6 @@
+# Get a new list from existing lists based on condition.
+# Can be easily modified to ask the user for the lists as well as the condition.
+
 list1 = [10, 20, 25, 30, 35]
 list2 = [40, 45, 60, 75, 90]
 new_list = []
