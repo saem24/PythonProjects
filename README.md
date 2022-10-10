@@ -1,6 +1,6 @@
 # Python projects
 
-Here you will find a list of Python programs that cover my various requirements.
+Here you will find a list of Python programs that I have made for my learning as well as personal use.
 
 They are currently categorized as:
 - [Basic](https://github.com/saem24/PythonProjects/tree/master/Basic)
