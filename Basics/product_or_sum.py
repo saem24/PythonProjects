@@ -1,3 +1,6 @@
+# Program to calculate product or sum of input numbers based on condition.
+# Used it to understand defining functions.
+
 def prod_or_sum(number1, number2):
     product = number1 * number2
     sum = number1 + number2
