@@ -1,3 +1,7 @@
+# checks for palidromes in numbers.
+# the while loop is useful for getting digits from a number.
+# ToDo - Make a palindrome checker for strings.
+
 og_no = int(input("Please enter a number: "))
 new_no = og_no
 rev_no = 0
